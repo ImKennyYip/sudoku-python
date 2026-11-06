@@ -3,7 +3,7 @@
 
 In this tutorial, you will learn to create the sudoku game in python with the built-in tkinter library.
 
-Throughout the tutorial, you will learn how to create a gui (graphical user interface) for the soduku game, style the sudoku tiles, and add dividing border lines. You will also learn how to select numbers and place them on the tile, and check for errors.
+Throughout the tutorial, you will learn how to create a gui (graphical user interface) for the sudoku game, style the sudoku tiles, and add dividing border lines. You will also learn how to select numbers and place them on the tile, and check for errors.
 
 <img width="3840" height="2160" alt="sudoku-python-sample" src="https://github.com/user-attachments/assets/27d8c017-423b-402b-9699-3cb9b92f2058" />
 
