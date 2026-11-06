@@ -52,7 +52,7 @@ def select_number(n):
 
 for i in range(1, 10):
     button = tkinter.Button(digits, text = str(i), width = 5, bg = "white",
-                  command = lambda x = i: select_number(x))
+                  command = lambda n = i: select_number(n))
     button.grid(row = 0, column = i-1)
     numbers[i] = button
 
