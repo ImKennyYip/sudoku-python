@@ -1,5 +1,5 @@
-# [Sudoku](https://youtu.be/ByGS4gCljZY)
-- Coding Tutorial: [https://youtu.be/ByGS4gCljZY](https://youtu.be/ByGS4gCljZY)
+# [Sudoku](https://youtu.be/QBubnJQ94hU)
+- Coding Tutorial: [https://youtu.be/QBubnJQ94hU](https://youtu.be/QBubnJQ94hU)
 
 In this tutorial, you will learn to create the sudoku game in python with the built-in tkinter library.
 
